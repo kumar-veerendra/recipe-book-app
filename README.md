@@ -1,6 +1,8 @@
 # 🍽️ Recipe Book App
 
-The **Recipe Book App** is a simple web application built using **HTML**, **CSS**, and **JavaScript** that fetches random meal recipes from [TheMealDB API](https://www.themealdb.com/api.php). It displays recipe names, images, ingredients, and links to full recipe details.
+The **Recipe Book App** is a simple and interactive web application built using **HTML**, **CSS**, and **JavaScript** that fetches random meal recipes from [TheMealDB API](https://www.themealdb.com/api.php). It displays recipe names, images, ingredients, and also provides a link to watch the **video tutorial** of the recipe.
+
+---
 
 ## 📸 Screenshot
 
@@ -11,19 +13,18 @@ The **Recipe Book App** is a simple web application built using **HTML**, **CSS*
 
 ## 🚀 Live Demo
 
-🔗 [View the Project on GitHub Pages](https://kumar-veerendra.github.io/recipe-book-app/)
+🔗 [View the Project](https://kumar-veerendra.github.io/recipe-book-app/)
 
 ---
 
 ## 📦 Features
 
-- Fetches random recipes dynamically
-- Shows:
-  - Recipe name
-  - Recipe image
-  - List of ingredients with their measures
-- Responsive layout
-- Loading message while fetching data
+- 🔄 **Fetch Random Recipes**: Get a new meal each time you load or refresh the app.
+- 🖼️ **Recipe Image**: View a clear image of the meal.
+- 📋 **Ingredients List**: Ingredients with proper measurements.
+- 🎥 **Watch Recipe Video**: A direct link to the cooking tutorial on YouTube.
+- 📱 **Responsive Design**: Mobile-friendly and clean layout.
+- ⏳ **Loading State**: Shows a loading message while data is being fetched.
 
 ---
 
@@ -33,12 +34,12 @@ The **Recipe Book App** is a simple web application built using **HTML**, **CSS*
 - CSS3
 - JavaScript (ES6)
 - [TheMealDB API](https://www.themealdb.com/api.php)
-- GitHub Pages for deployment
+- GitHub Pages
 
 ---
 
 ## 🧑‍💻 How to Run Locally
 
-1. Clone the repo:
+1. Clone the repository:
    ```bash
    git clone https://github.com/kumar-veerendra/recipe-book-app.git
